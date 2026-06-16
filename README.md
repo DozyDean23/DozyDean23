@@ -13,3 +13,12 @@
 
 ---
 *All certificates issued by AWS Training and Certification*
+
+
+## 🏆 Microsoft Learn Profile
+
+[![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft%20Learn-Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/deanoconnor-9877/)
+
+View all my Microsoft badges and trophies on my [Microsoft Learn profile](https://learn.microsoft.com/en-us/users/deanoconnor-9877/).
+
+---
